@@ -1,2 +1,2 @@
 # Resourcify_djeff
-Challenge Home work 
+Challenge Homework 
